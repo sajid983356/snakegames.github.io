@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/38709923/why-is-requestanimationframe-better-than-setinterval-or-settimeout
+
+https://www.youtube.com/watch?v=2ZDnw6ifdSI&t=3619s
+
